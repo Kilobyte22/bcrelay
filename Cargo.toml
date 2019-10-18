@@ -1,0 +1,9 @@
+[package]
+name = "bcrelay"
+version = "0.1.0"
+authors = ["Kilobyte22 <stiepen22@gmx.de>"]
+edition = "2018"
+
+[dependencies]
+pnet = "0.22.0"
+clap = "2.33.0"
