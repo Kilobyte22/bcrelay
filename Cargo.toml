@@ -5,5 +5,5 @@ authors = ["Kilobyte22 <stiepen22@gmx.de>"]
 edition = "2018"
 
 [dependencies]
-pnet = "0.22.0"
+pnet = "0.27.2"
 clap = "2.33.0"
